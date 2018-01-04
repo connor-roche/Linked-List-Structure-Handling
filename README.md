@@ -1,2 +1,3 @@
-# Linked-List-Structure-Handling
-Fills a structure with values from Youtube's index page.
+# Linked List Structure Handling
+
+Takes a CSV containing values (views, user, times, titles) from Youtube's index page. Then tokenizes the information and adds it to the linked list appropriately. 
